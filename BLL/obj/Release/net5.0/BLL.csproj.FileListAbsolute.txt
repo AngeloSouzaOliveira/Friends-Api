@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\Friends-Api\BLL\bin\Release\net5.0\BLL.deps.json
+C:\Users\angel\source\repos\Friends-Api\BLL\bin\Release\net5.0\BLL.dll
+C:\Users\angel\source\repos\Friends-Api\BLL\bin\Release\net5.0\ref\BLL.dll
+C:\Users\angel\source\repos\Friends-Api\BLL\bin\Release\net5.0\BLL.pdb
+C:\Users\angel\source\repos\Friends-Api\BLL\bin\Release\net5.0\MODEL.dll
+C:\Users\angel\source\repos\Friends-Api\BLL\bin\Release\net5.0\MODEL.pdb
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.AssemblyInfo.cs
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.csproj.CopyComplete
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.dll
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\ref\BLL.dll
+C:\Users\angel\source\repos\Friends-Api\BLL\obj\Release\net5.0\BLL.pdb

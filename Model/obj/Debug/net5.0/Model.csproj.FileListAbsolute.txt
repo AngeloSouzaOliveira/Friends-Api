@@ -1,0 +1,12 @@
+C:\Users\angel\source\repos\Friends-Api\Model\bin\Debug\net5.0\MODEL.deps.json
+C:\Users\angel\source\repos\Friends-Api\Model\bin\Debug\net5.0\MODEL.dll
+C:\Users\angel\source\repos\Friends-Api\Model\bin\Debug\net5.0\ref\MODEL.dll
+C:\Users\angel\source\repos\Friends-Api\Model\bin\Debug\net5.0\MODEL.pdb
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\MODEL.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\MODEL.AssemblyInfo.cs
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\MODEL.dll
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\ref\MODEL.dll
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\MODEL.pdb
+C:\Users\angel\source\repos\Friends-Api\Model\obj\Debug\net5.0\MODEL.csprojAssemblyReference.cache

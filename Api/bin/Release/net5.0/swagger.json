@@ -1,0 +1,146 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Api",
+    "version": "v1"
+  },
+  "paths": {
+    "/v1/Friend/AllFriend": {
+      "get": {
+        "tags": [
+          "Friend"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/v1/Friend/GetByIdFriend": {
+      "get": {
+        "tags": [
+          "Friend"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "Id",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/v1/Friend/CreateFriend": {
+      "post": {
+        "tags": [
+          "Friend"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Friend"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/v1/Friend/UpdateFriend": {
+      "put": {
+        "tags": [
+          "Friend"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Friend"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/v1/Friend/RemoveFriend": {
+      "delete": {
+        "tags": [
+          "Friend"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Friend"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Friend": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        },
+        "birthDate": {
+          "format": "date-time",
+          "type": "string"
+        }
+      }
+    }
+  }
+}
